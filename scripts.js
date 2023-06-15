@@ -8,9 +8,9 @@ const livros = [
     url: 'children-of-rima-book-1-obooko.pdf'
   },
   {
-    titulo: 'Livro 2',
-    autor: 'Autor 2',
-    url: 'livro2.pdf'
+    titulo: 'Gathering Storm (Tempestria 2)',
+    autor: 'Gary Stringer',
+    url: 'gathering-storm-tempestria-2-obooko.pdf'
   },
   // Adicione mais livros aqui
 ];
