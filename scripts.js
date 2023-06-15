@@ -3,9 +3,9 @@ const livrosLista = document.getElementById('livros-lista');
 // Dados fictícios de livros
 const livros = [
   {
-    titulo: 'Livro 1',
-    autor: 'Autor 1',
-    url: 'livro1.pdf'
+    titulo: 'Children of Rima: Seeds of The Fallen',
+    autor: 'Miriam Yvette',
+    url: 'children-of-rima-book-1-obooko.pdf'
   },
   {
     titulo: 'Livro 2',
